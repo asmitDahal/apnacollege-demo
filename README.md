@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Asmit Dahal
+Author - Asmit (NCC)
